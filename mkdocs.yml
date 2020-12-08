@@ -1,0 +1,8 @@
+site_name: "sampleSpringBoot-ms3"
+site_description: "sampleSpringBoot-ms3"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
